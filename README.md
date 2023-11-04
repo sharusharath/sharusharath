@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working as UI Developer
+- - 📫 How to reach me: sharusharath99@gmail.com
 
 <!--
 **sharusharath/sharusharath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
